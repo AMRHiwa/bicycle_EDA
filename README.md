@@ -18,7 +18,6 @@ for getting knowleg about our dataset <a href="#about_ds">Click Here!</a>
 
 <img src='plots\plot2.png' width=80%>
 
-
 <h2 id='about_ds'>DataSet information</h2>
 
 In the <code>bikes_borrowed.csv</code> file, the information of bicycles rented in a city on that day is stored. The columns of this collection are explained in the table below. This set is downloaded from the file and stored in the <code>df</code> database.
