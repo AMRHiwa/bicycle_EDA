@@ -4,6 +4,13 @@ In this project, we have a set of data related to cyclists, which we intend to a
 
 for getting knowleg about our dataset <a href="#about_ds">Click Here!</a>
 
+<big>__The steps of this analysis include the following steps:__</big>
+
+1. Importing Modules.
+2. Loading DataSet.
+3. Missing Value Management.
+4. Data Exploration.
+
 
 
 <h2 id='about_ds'>DataSet information</h2>
