@@ -12,6 +12,12 @@ for getting knowleg about our dataset <a href="#about_ds">Click Here!</a>
 4. Data Exploration.
 
 
+<h3>Plots:</h3>
+
+<img src='plots\plot1.png' width=80%>
+
+<img src='plots\plot2.png' width=80%>
+
 
 <h2 id='about_ds'>DataSet information</h2>
 
